@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Teqstories!</h2>
+<h1 style="color:red">Hello Teqstories!</h1>
 </body>
 </html>
